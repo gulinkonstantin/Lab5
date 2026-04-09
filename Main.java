@@ -5,5 +5,7 @@ class Main {
         System.out.println("Изменение 1 для ветки dev");
 
         System.out.println("Изменение 2 для ветки dev");
+
+        System.out.println("Изменение 3 для ветки dev");
     }
 }
