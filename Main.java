@@ -3,5 +3,7 @@ class Main {
         System.out.print("Это добавлено в ветке main");
 
         System.out.println("Изменение 1");
+
+        System.out.println("Изменение 2");
     }
 }
